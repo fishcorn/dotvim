@@ -5,4 +5,4 @@ call pathogen#helptags()
 
 :set number
 :set cursorline
-:colo blaquemagick
+:colo strange
