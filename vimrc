@@ -3,6 +3,12 @@
 call pathogen#infect()
 call pathogen#helptags()
 
-:set number
-:set cursorline
-:colo strange
+set number
+set cursorline
+colo strange
+
+set expandtab
+set shiftwidth=2
+set softtabstop=2
+filetype plugin indent on
+
