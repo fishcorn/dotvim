@@ -1,9 +1,6 @@
 [submodule "bundle/strange"]
 	path = bundle/strange
 	url = https://github.com/vim-scripts/strange
-[submodule "bundle/sidonia"]
-	path = bundle/sidonia
-	url = https://github.com/AlessandroYorba/Sidonia
 [submodule "bundle/nord"]
 	path = bundle/nord
 	url = https://github.com/arcticicestudio/nord-vim
